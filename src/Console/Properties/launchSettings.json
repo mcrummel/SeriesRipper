@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Console": {
+      "commandName": "Project",
+      //"commandLineArgs": "--source \"F:\\Rips\\Season 5\" --dest \"F:\\Plex Library\\TV Shows\\Babylon 5\" --title \"Babylon 5\" --season 5 --duration-threshold 00:40:00 --start-episode 1",
+      "commandLineArgs": "--source \"F:\\Rips\\Babylon 5\" --dest \"F:\\Plex Library\\TV Shows\\Babylon 5\" --duration-threshold 00:40:00"
+    }
+  }
+}
